@@ -1,7 +1,0 @@
-
-Zpython:S5722"=Remove 3 parameters. Method __int__ should have 1 parameters.(Ì»Ÿûÿÿÿÿ
-{python:S101B"dRename class "roleSchema" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¢ÆŞÚ
-kpython:S1763q"GDelete this unreachable code or refactor the code to make it reachable.(¤âğŸÿÿÿÿÿ8È›Ğ¤/
-kpython:S1542v"NRename function "userList" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷áöÏøÿÿÿÿ
-~python:S117‚"ZRename this local variable "userEmail" to match the regular expression ^[_a-z][a-z0-9_]*$.( Õê´şÿÿÿÿ8ËÎÁ¤/
-gpython:S1542}"JRename function "Home" to match the regular expression ^[a-z_][a-z0-9_]*$.(üû«ˆûÿÿÿÿ
