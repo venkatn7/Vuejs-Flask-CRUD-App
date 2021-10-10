@@ -93,6 +93,7 @@
       <workItem from="1633197705087" duration="175000" />
       <workItem from="1633200261534" duration="1453000" />
       <workItem from="1633739227044" duration="1086000" />
+      <workItem from="1633809861528" duration="5561000" />
     </task>
     <servers />
   </component>
@@ -100,6 +101,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/vuejs_flask_crud_app$app.coverage" NAME="app Coverage Results" MODIFIED="1633739256239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskServer-API" />
+    <SUITE FILE_PATH="coverage/vuejs_flask_crud_app$app.coverage" NAME="app Coverage Results" MODIFIED="1633815366956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskServer-API" />
   </component>
 </project>
